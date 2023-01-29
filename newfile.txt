@@ -1,0 +1,4 @@
+This is remote file created in remote repository
+
+---- this is just notes for me Elvis so that i should remember ---
+Adding a file remotely will not be there in the local directory
